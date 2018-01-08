@@ -1,0 +1,149 @@
+
+
+
+Conversión ha B-W, en Photoshop, Camara Raw y Silver Efex Pro
+
+
+	¿Te atreves con el blanco y negro? Por Toni Vila.
+
+
+		https://www.youtube.com/watch?v=K__HW1SKII4
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+General:
+________
+
+	_en digital lo más recomendable es hacer un workflow, en color haciendo tomas en color y convirtiendolas en B/W,
+
+	en post-producción
+
+
+
+
+Photoshop Desaturación:
+_______________________
+
+
+	_para ésta opción debemos ir a ha "Image/Adjustments/Desaturte", shortcut "Control + Shift + U", así, la imágen se 
+
+	desaturará
+
+	
+	_ésta opción tiende ha unificar los canales de color en uno sólo sobre todo en versiones antiguas de photoshop
+
+
+	_así, podrías utilizar curvas para variar los contrastes de la imágen
+
+
+
+Photoshop Mode GreyScale:
+_________________________
+
+
+	_para ésta opción debemos ir ha "Image/Mode/Greyscale", así, el sistema nos pedirá que si deseamos descartar la 
+
+	información de color
+
+
+	_de ésta manera, los canales de color se unificarán en uno sólo "Canal de Gris", ahora como canal resultante
+
+
+	_así, podría ir al panel de canales y hacer "Control + mouse left click", sobre la miniatura de la imágen del canal 
+
+	gris unificado
+
+
+	_para que así, sean seleccionadas las áreas de la imágen que van desde los tonos medios hasta los tonos altos más si
+
+	invertimos ésta selección podremos tener la selección que van desde los tonos medio hasta los tonos bajos para que 
+
+	así, podamos hacer correcciones selectivas sobre las imágen y los tonos
+
+
+
+Photoshop Color Lab:
+____________________
+
+	_éste es un modo el cuál, nos permitirá tener más posibilidades en el proceso para lo cuál, tenemos que haber convertido
+
+	la imágen previamente en "Image/Mode/Grescale", para luego convertirla en color lab mode, yendo a las opciones de 
+
+	"Image/Mode/Color Lab"
+
+
+	_a partir de éste punto en el cuál, ya hemos convertido la imágen al modo color lab, ésta mantendrá la misma apariencia 
+
+	que la imágen en "mode/greyscale", más en la sección de canales habrá cambiado la configuración de los canales de la imágen
+
+
+	_ya que ahora en el modo "Mode/Color Lab", los canales disponibles de la imágen serán los siguientes:
+
+
+		Lab:
+
+			_éste contiene la configuración y representación del color ha tonos de la imágen
+
+
+		Lightness:
+
+			_ésta es todo la información de la escala de grises que van desde el blanco hasta el negro
+
+
+		a:
+
+			_éstos tienen la información de las cordenadas que van desde el azul hasta el amarillo
+
+
+		b:
+
+			_éstos tienen la información de las cordenadas que van desde el verde hasta el magenta
+
+
+	_de ésta manera, podremos ir a la sección de canales y seleccionar el canal de "Lightness", así, al seleccionar éste canal 
+
+	de luminocidad éste nos dejará la imágen más plana ó lavada con más información y con éste canal seleccionado ir ha 
+
+	"Image/Mode/Grescale", para con la información del "Mode/Color Lab/Lightness", convertir la imágen nuevamente en escala
+
+	de grises más ahora con la informaición del canal de luminocidad del "color lab mode", descartando los demás canales del
+
+	color lab mode
+
+
+	_pudiendo así, ahora hacer correcciones con curvas y demás herramientas en la imágen ahora con mayor rango dinámico de 
+
+	acción
+
+
+
+Photoshop Black & White
+________________________
+
+	_otra opción que nos permite incluso interactuar con los canales de color y su información es la opción yendo ha 
+
+	"Image/Adjustments/Balck & White", para que así, nos aparesca un panel en el cuál, a través, de slider, podamos hacer
+
+	correcciones selectivas en relación a los colores y tonos de la imágen de manera correlativa; de ésta manera, podremos
+
+	hacer correcciones más selectivas sobre áreas de color específicas las cuales serán convertir ha blanco y negro en relación
+
+	al ajuste que realizemos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
