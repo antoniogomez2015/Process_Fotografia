@@ -8,6 +8,8 @@
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+________________________________________________________________________________________________________________
 Brochures:
 __________
 
@@ -26,6 +28,19 @@ __________
 	Nikkor Large Format
 
 		http://www.galerie-photo.com/manuels/nikkor-lenses-for-large-format%20cameras.pdf
+
+
+
+
+	Tutoriales:
+	___________
+
+
+		Lentes y objetivos en microscopía
+
+			https://www.youtube.com/watch?v=zWlz7SJFQz8
+
+
 
 
 
