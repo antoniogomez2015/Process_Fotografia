@@ -1,0 +1,59 @@
+
+
+
+	Referencias:
+
+		Curso de Fotografía - LuchoTV 62 - El Número Guía
+
+			https://www.youtube.com/watch?v=MFUzqCfmcmg
+
+
+		Tutorial de Fotografía: EL FLASH NRO_GUIA (PRO)
+
+			https://www.youtube.com/watch?v=K1Ph2027P7g
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Número guía de Flash
+
+
+NOTE: la regla general dice que ésta medida debe de tomarse con el cabezal del flash, en 50mm, ha iso: 100
+
+
+
+	GN = Diafragma X Diastancia del sujeto
+
+
+		Obtener Diafragma:
+
+			GN/Distancia del sujeto
+
+
+				Ej: si quiero saber que diadragma dará un flash ha 3, metros de distancia del 
+
+				motivo, sólo debemos hacer la siguiente ecuación:
+
+
+					Diafragma = GN:37 / 3m, ésto es igual ha = 12.3f
+
+
+
+		Obtener Distancia del sujeto:
+
+			GN/Distancia del sujeto
+
+
+				Ej: si quiero saber ha que distancia debo colocar un flash, para que éste me
+
+				de un diafragma de 5.6f, sólo debemos hacer la siguiente ecuación:
+
+
+					Distancia = GN:37 / 5.6, ésto es igual ha = 6.6m
+
+
+
+
